@@ -1,0 +1,152 @@
+----- MEDIA DE DEFESAS - SELEÇÃO -----
+
+Selecão: 1
+Media: 1,0
+Selecão: 2
+Media: 2,0
+Selecão: 3
+Media: 0,2
+Selecão: 4
+Media: 1,4
+Selecão: 5
+Media: 1,8
+
+----- PONTUACAO DOS GOLEIROS -----
+
+Selecao: 1
+
+Pratik Skaggs
+Defesas: 1
+Uehudah Hack
+Defesas: 1
+Edison Drye
+Defesas: 2
+Ajani Harding
+Defesas: 1
+Orazio Hart
+Defesas: 0
+
+Goleiro titular indicado: Edison Drye
+
+Selecao: 2
+
+Tristan Karns
+Defesas: 2
+Niven Glaser
+Defesas: 1
+Derwyn Devers
+Defesas: 2
+Tod Phan
+Defesas: 1
+Eddie Hulse
+Defesas: 4
+
+Goleiro titular indicado: Eddie Hulse
+
+Selecao: 3
+
+Welford Yepez
+Defesas: 0
+Rishley Snyder
+Defesas: 0
+Milo Mccurdy
+Defesas: 0
+Carden Justus
+Defesas: 0
+Carlyon Gorby
+Defesas: 1
+
+Goleiro titular indicado: Carlyon Gorby
+
+Selecao: 4
+
+Mungo Spangler
+Defesas: 2
+Whitmore Squires
+Defesas: 0
+Pedrog Mccurdy
+Defesas: 1
+Ridgley Leo
+Defesas: 2
+Bolton Tarin
+Defesas: 2
+
+Goleiro titular indicado: Mungo Spangler
+
+Selecao: 5
+
+Edison Loy
+Defesas: 1
+Delling Herndon
+Defesas: 0
+Senichi Iorio
+Defesas: 4
+Albin Kerner
+Defesas: 2
+Jivin Justus
+Defesas: 1
+Clement Fleisher
+Defesas: 3
+
+Goleiro titular indicado: Senichi Iorio
+
+----- MEDIA - GOLS TOMADOS -----
+
+Selecão 1: 29,0
+Selecão 2: 28,0
+Selecão 3: 29,8
+Selecão 4: 28,6
+Selecão 5: 28,2
+
+----- LOCAL DOS CHUTES -----
+
+Fora: 3
+Trave do lado esquerdo: 0
+Trave do lado direito: 0
+
+----- GOLS NO ÂNGULO -----
+
+Quantidade: 0
+
+----- MELHORES GOLEIROS -----
+
+Seleção: 2
+Seleção: 2
+Seleção: 2
+
+----- GOLS POR FORÇA -----
+
+Quantidade: 1
+
+-----  LISTA DE GOLEIROS -----
+
+NOME - SELEÇÃO - DEFESAS - GOLS TOMADOS - AAG
+
+Pratik Skaggs - 1 - 1 - 29 - 11
+Uehudah Hack - 1 - 1 - 29 - 13
+Edison Drye - 1 - 2 - 28 - 10
+Ajani Harding - 1 - 1 - 29 - 10
+Orazio Hart - 1 - 0 - 30 - 12
+Tristan Karns - 2 - 2 - 28 - 13
+Niven Glaser - 2 - 1 - 29 - 12
+Derwyn Devers - 2 - 2 - 28 - 12
+Tod Phan - 2 - 1 - 29 - 11
+Eddie Hulse - 2 - 4 - 26 - 10
+Welford Yepez - 3 - 0 - 30 - 11
+Rishley Snyder - 3 - 0 - 30 - 9
+Milo Mccurdy - 3 - 0 - 30 - 14
+Carden Justus - 3 - 0 - 30 - 11
+Carlyon Gorby - 3 - 1 - 29 - 11
+Mungo Spangler - 4 - 2 - 28 - 13
+Whitmore Squires - 4 - 0 - 30 - 14
+Pedrog Mccurdy - 4 - 1 - 29 - 11
+Ridgley Leo - 4 - 2 - 28 - 13
+Bolton Tarin - 4 - 2 - 28 - 13
+Edison Loy - 5 - 1 - 29 - 11
+Delling Herndon - 5 - 0 - 30 - 11
+Senichi Iorio - 5 - 4 - 26 - 10
+Albin Kerner - 5 - 2 - 28 - 12
+Jivin Justus - 5 - 1 - 29 - 12
+Clement Fleisher - 5 - 3 - 27 - 13
+
+--> Digite o ID do goleiro: 
